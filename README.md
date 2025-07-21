@@ -6,7 +6,7 @@ Kevin Villagrán - 23584
 
 ## 🎬 Demo en Acción
 
-[![Funcionamiento del Proyecto](https://dernait.github.io/conways-game-of-life/demo.gif)](https://raw.githubusercontent.com/DerNait/conways-game-of-life/main/demo.gif)
+![Funcionamiento del Proyecto](https://raw.githubusercontent.com/DerNait/conways-game-of-life/main/demo.gif)
 
 > 🔁 Compilación y demostración de funcionamiento del juego.
 

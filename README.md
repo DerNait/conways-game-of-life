@@ -6,7 +6,7 @@ Kevin Villagrán - 23584
 
 ## 🎬 Demo en Acción
 
-![Funcionamiento del Proyecto](https://conways-game-of-life.github.io/demo.gif)
+[![Funcionamiento del Proyecto](https://dernait.github.io/conways-game-of-life/demo.gif)](https://raw.githubusercontent.com/DerNait/conways-game-of-life/main/demo.gif)
 
 > 🔁 Compilación y demostración de funcionamiento del juego.
 
@@ -16,13 +16,10 @@ Kevin Villagrán - 23584
 
 ```bash
 # Clona el repositorio
-git clone https://github.com/DerNait/conways-game-of-life.git
+git clone https://github.com/DerNait/conways-game-of-life.git .
 
 # Entra al directorio
-cd proyecto-asombroso
-
-# Instala las dependencias
-cargo add
+cd conways-game-of-life
 
 # Corre el proyecto
 cargo run
